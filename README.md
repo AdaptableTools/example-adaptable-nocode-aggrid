@@ -37,3 +37,8 @@ $ npx serve dist
 ```
 
 to launch a webserver that serves the generated `dist` folder - now go to [localhost:5000](http://localhost:5000) to see the production version.
+
+## Code
+
+"nocode" means that you don't have to code your columns and know the grid layout ahead-of-time.
+You have to write some code to get this up and running, but minimal - you can find it in [src/index.ts](./src/index.ts)
