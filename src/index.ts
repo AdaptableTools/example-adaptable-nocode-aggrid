@@ -8,7 +8,7 @@ import "@ag-grid-community/all-modules/dist/styles/ag-theme-balham-dark.css";
 import nocode from "@adaptabletools/adaptable-plugin-nocode-aggrid";
 import {
   AdaptableOptions,
-  PredefinedConfig
+  PredefinedConfig,
 } from "@adaptabletools/adaptable/types";
 import { AllEnterpriseModules } from "@ag-grid-enterprise/all-modules";
 
@@ -23,14 +23,14 @@ const adaptableOptions: AdaptableOptions = {
 
   plugins: [
     nocode({
-      onInit: adaptableOptions => {
+      onInit: (adaptableOptions) => {
         adaptableOptions.vendorGrid.suppressFieldDotNotation = true;
         adaptableOptions.vendorGrid.modules = AllEnterpriseModules;
-      }
-    })
-  ]
+      },
+    }),
+  ],
 };
 
-Adaptable.initLazy(adaptableOptions).then(api => {
+Adaptable.init(adaptableOptions).then((api) => {
   console.log(api, "!!!");
 });
