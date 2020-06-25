@@ -1,6 +1,6 @@
 # example-adaptable-nocode-aggrid
 
-Demo of AdapTable No-code plugin
+Demo of AdapTable No-code plugin - using Version 7 of AdapTable
 
 ## Installation
 
