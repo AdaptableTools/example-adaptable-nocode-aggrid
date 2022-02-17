@@ -24,8 +24,8 @@ const adaptableOptions: AdaptableOptions = {
   plugins: [
     nocode({
       onInit: (adaptableOptions) => {
-        adaptableOptions.vendorGrid.suppressFieldDotNotation = true;
-        adaptableOptions.vendorGrid.modules = AllEnterpriseModules;
+        adaptableOptions.gridOptions.suppressFieldDotNotation = true;
+        adaptableOptions.modules = AllEnterpriseModules;
       },
     }),
   ],
