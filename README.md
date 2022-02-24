@@ -1,6 +1,6 @@
 # example-adaptable-nocode-aggrid
 
-Demo of AdapTable No-code plugin - using Version 10 of AdapTable
+Demo of AdapTable No-code plugin - using Version 11 of AdapTable
 
 ## Installation
 
@@ -52,10 +52,9 @@ We can make a trial licence available for a short period of time to allow you to
 
 Please contact [`sales@adaptabletools.com`](mailto:sales@adaptabletools.com) for more information.
 
- 
 ## Demo
 
-To see AdapTable in action visit our [Demo Site](https://demo.adaptabletools.com).  Here you can see a large number of AdapTable demos each showing a different feature, function or option in AdapTable (using dummy data sets).
+To see AdapTable in action visit our [Demo Site](https://demo.adaptabletools.com). Here you can see a large number of AdapTable demos each showing a different feature, function or option in AdapTable (using dummy data sets).
 
 ## Help
 
@@ -63,8 +62,8 @@ Developers can learn how to access AdapTable programmatically at [AdapTable Docu
 
 ## More Information
 
-General information about Adaptable Tools is available at our [Website](http://www.adaptabletools.com) 
- 
+General information about Adaptable Tools is available at our [Website](http://www.adaptabletools.com)
+
 ## Support
 
 For all support enquiries please email [`support@adaptabletools.com`](mailto:support@adaptabletools.com) or [raise a Support Ticket](https://adaptabletools.zendesk.com/hc/en-us/requests/new).
