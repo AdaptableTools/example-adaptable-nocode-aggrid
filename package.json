@@ -12,8 +12,8 @@
     "url": "git+https://github.com/AdaptableTools/example-adaptable-nocode-aggrid.git"
   },
   "dependencies": {
-    "@adaptabletools/adaptable": "12.1.0",
-    "@adaptabletools/adaptable-plugin-nocode-aggrid": "12.1.0",
+    "@adaptabletools/adaptable": "12.2.0",
+    "@adaptabletools/adaptable-plugin-nocode-aggrid": "12.2.0",
     "@ag-grid-community/all-modules": "27.3.0",
     "@ag-grid-enterprise/all-modules": "27.3.0",
     "parcel-bundler": "^1.12.4"
