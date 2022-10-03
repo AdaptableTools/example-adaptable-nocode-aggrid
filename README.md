@@ -1,6 +1,6 @@
 # example-adaptable-nocode-aggrid
 
-Demo of AdapTable No-code plugin - using Version 12 of AdapTable
+Demo of AdapTable No-code plugin - using Version 13 of AdapTable
 
 ## Installation
 
@@ -34,7 +34,7 @@ On your local machine, you can run
 $ npx serve dist
 ```
 
-to launch a webserver that serves the generated `dist` folder - now go to [localhost:5000](http://localhost:5000) to see the production version.
+to launch a webserver that serves the generated `dist` folder - now go to [localhost:3000](http://localhost:3000) to see the production version.
 
 ## Code
 
