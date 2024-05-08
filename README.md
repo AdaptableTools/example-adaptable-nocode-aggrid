@@ -38,35 +38,26 @@ to launch a webserver that serves the generated `dist` folder - now go to [local
 
 ## Code
 
-"nocode" means that you don't have to pre-design adn configure your columns, or know the grid layout ahead-of-time.
+"nocode" means that you don't have to pre-design and configure your columns, or know the grid layout ahead-of-time.
 
 You do have to write some code to get this up and running, but minimal - you can find it in [src/index.ts](./src/index.ts)
 
+## Documentation & Demos
 
-## Licences
-
-An AdapTable Licence provides access to all product features as well as quarterly updates and enhancements through the lifetime of the licence, comprehensive support, and access to all 3rd party libraries.
-
-Licences can be purchased individually, for a team, for an organisation or for integration into software for onward sale.
-
-We can make a Trial Licence available for a short period of time to allow you to try out AdapTable for yourself.
-
-Please contact [`sales@adaptabletools.com`](mailto:sales@adaptabletools.com) for more information.
+Full details of how to install and use the No Code plugin, together with many demos, can be found at [AdapTable No Code Documentation](https://docs.adaptabletools.com/guide/handbook-no-code)
 
 ## Help
 
-Developers can learn how to access AdapTable programmatically at [AdapTable Documentation](https://docs.adaptabletools.com).  
+Developers can learn how to access AdapTable programmatically at [AdapTable Documentation](https://docs.adaptabletools.com).
 
-Here you can see a large number of AdapTable demos each showing a different feature, function or option in AdapTable.
-
-## Demo
-
-To see AdapTable in action visit our [Demo Site](https://www.adaptabletools.com/demos) which contains a few larger demos.
-
-## More Information
+## Other AdapTable Resources
 
 General information about Adaptable Tools is available at our [Website](http://www.adaptabletools.com) 
- 
-## Support
 
+## Support
 For all support enquiries please email [`support@adaptabletools.com`](mailto:support@adaptabletools.com) or [raise a Support Ticket](https://adaptabletools.zendesk.com/hc/en-us/requests/new).
+
+## Licences
+
+Information on AdapTable Licences can be found at [Licensing AdapTable for AG Grid](https://docs.adaptabletools.com/guide/licensing).
+
