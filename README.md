@@ -44,11 +44,11 @@ You do have to write some code to get this up and running, but minimal - you can
 
 ## Documentation & Demos
 
-Full details of how to install and use the No Code plugin, together with many demos, can be found at [AdapTable No Code Documentation](https://docs.adaptabletools.com/guide/handbook-no-code)
+Full details of how to install and use the No Code plugin, together with many demos, can be found at [AdapTable No Code Documentation](https://www.adaptabletools.com/docs/handbook-no-code)
 
 ## Help
 
-Developers can learn how to access AdapTable programmatically at [AdapTable Documentation](https://docs.adaptabletools.com).
+Developers can learn how to access AdapTable programmatically at [AdapTable Documentation](https://www.adaptabletools.com/docs).
 
 ## Other AdapTable Resources
 
@@ -59,5 +59,5 @@ For all support enquiries please email [`support@adaptabletools.com`](mailto:sup
 
 ## Licences
 
-Information on AdapTable Licences can be found at [Licensing AdapTable for AG Grid](https://docs.adaptabletools.com/guide/licensing).
+Information on AdapTable Licences can be found at [Licensing AdapTable for AG Grid](https://www.adaptabletools.com/buy/buying-adaptable-licensing).
 
